@@ -9,4 +9,4 @@ This Flask web application retrieves weather information using the OpenWeatherMa
 - OpenWeatherMap API: To fetch weather data
 - Python requests library: For making HTTP requests to the API
 
-EOF
+
