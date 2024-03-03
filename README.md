@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 # Weather App
 
 This Flask web application retrieves weather information using the OpenWeatherMap API based on the user's input city. It displays the current weather conditions including temperature, humidity, and wind speed.
